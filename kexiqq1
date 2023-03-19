@@ -1,7 +1,7 @@
 import logging  # библиотека для логирования (отображение статусной информации)
 from aiogram import Bot, Dispatcher, types, executor
 
-TOKEN = '6266124846:AAHaJIiqr7WbwL2KR2ufzSNMHEkuGymfgNA'
+TOKEN = '5907432768:AAG7piC9ztqL6TeRcawBq4pjcfwnxLaWANM'
 
 logging.basicConfig(level=logging.INFO)  # отображение в консоль любых действий в боте
 
